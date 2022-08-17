@@ -3,7 +3,7 @@ import network
 
 
 WIFI_SSID = "MarabouDaim" # Assign your the SSID of your network
-WIFI_PASS = "Artno1427" # Assign your the password of your network
+WIFI_PASS = "XXXXXXXX" # Assign your the password of your network
 
 # WiFi connection
 print("Setup start")
